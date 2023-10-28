@@ -20,5 +20,3 @@ To begin using the Synapse project, follow these simple steps:
 
    ```bash
    git clone https://github.com/your-username/synapse.git
-   
-
